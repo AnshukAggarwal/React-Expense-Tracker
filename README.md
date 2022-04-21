@@ -1,6 +1,6 @@
 # An expense tracker created with Create React App
 
-## Exploring the core react concepts. Users can add an expense and filter by a month
+## Exploring the core React concepts. Users can add an expense and filter by a month
 
 ### Clone the project
 
