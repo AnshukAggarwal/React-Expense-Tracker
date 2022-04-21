@@ -1,0 +1,23 @@
+.form{
+    min-width: 50%;
+    padding: 10px;
+  }
+
+  .form-group{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .form-group input{
+    flex-basis:50%;
+    margin-bottom: 1rem;
+  }
+
+  button {
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #40005d;
+    background-color: #f8f9f9;
+    border-radius: 12px;
+    margin-right: 1rem;
+  }

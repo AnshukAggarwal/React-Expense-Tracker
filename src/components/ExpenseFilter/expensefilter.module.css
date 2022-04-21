@@ -1,0 +1,16 @@
+.filter{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.filter label{
+    color: white;
+    font-size: large;
+}
+
+.filter select{
+    padding: 0.5rem;
+}
