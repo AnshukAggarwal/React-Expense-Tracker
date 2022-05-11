@@ -46,7 +46,7 @@ class App extends React.Component {
   };
 
   handleAddExpense = (expenseData) => {
-    console.log(expenseData);
+    //console.log(expenseData);
     this.setState((prevState) => {
       return {
         expenses: [...prevState.expenses, expenseData],
